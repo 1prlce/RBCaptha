@@ -1,3 +1,5 @@
+[html_content]
+code = """
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,3 +11,4 @@
     <p>Hi</p>
 </body>
 </html>
+"""
